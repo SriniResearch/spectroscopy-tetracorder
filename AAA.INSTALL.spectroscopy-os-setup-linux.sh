@@ -102,13 +102,7 @@ then
 	echo "     installer= $aget"
 fi
 echo " "
-echo "Type  y  to continue, anything else exits."
-read y
-if [ "$y" != "y" ]
-then
-	echo "exit 1"
-	exit 1
-fi
+echo "Continuing..."
 
 #######################################################################################
 
