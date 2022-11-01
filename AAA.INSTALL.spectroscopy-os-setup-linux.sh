@@ -41,9 +41,9 @@
 doinstall=0
 
 # edit location as desired:
-t1='/home/t1'     # tetracorder directories
-sl1='/home/sl1'   # spectral library directories
-src='/home/src'   # source code directories
+t1='/root/tetracorder/t1'     # tetracorder directories
+sl1='/root/tetracorder/sl1'   # spectral library directories
+src='/root/tetracorder/src'   # source code directories
 
 # Note: will create /usr/spool/ /usr/spool/gplot directories and /usr/spool/plot.log file
 
@@ -397,8 +397,8 @@ echo " "
 
 for i in  $t1 $sl1 
 do
-	echo "chown rclark $i"
-	chown rclark $i
+	echo "chown root $i"
+	chown root $i
 		if [ $? -ne 0 ]
 		then
 			echo "ERROR: command failed"
