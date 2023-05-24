@@ -13,11 +13,11 @@ irfl=r1.sprlb06b
 #
 # protection number for open files (v,w,d,u,y,s)
 #
-iprtv=          1955  # device protection v
+iprtv=          2013  # device protection v
 iprtw=        -99626  # device protection w
 iprtd=             0  # device protection d
 iprtu=         -4719  # device protection u
-iprty=          1918  # device protection y
+iprty=          1949  # device protection y
 iprts=             0  # device protection s
 #
 # short 8 character names associated with file device letters
@@ -49,17 +49,17 @@ iwch=              0  # wavelength calib shift
 #
 mag0=             -1  # mag tape drive 0
 mag1=             -1  # mag tape drive 1
-isavf=          1956  # file v
+isavf=          2014  # file v
 iwjf=          90003  # file w
 iwrkf=           971  # file d
 isvcu=           915  # file u
-iwjcy=          1919  # file y
+iwjcy=             8  # file y
 istrf=             1  # file s
 ilpt=              1  # line printer
 icdr=              0  # card reader
 ipp=               1  # printer/plotter
 #
-nchans=         4301  # num wave chans
+nchans=         3961  # num wave chans
 ibnrm1=           30  # band anal
 ibnrm2=           38  # band anal
 nchsav=            0  # num chan save
@@ -83,7 +83,7 @@ cfile=#                                         #
 igrmod=           52  # graphics mode
 #
 itrol(1)=          V  # wavelength file id
-itrol(2)=         96  # record in use
+itrol(2)=          6  # record in use
 itrol(3)=          a  # chan/wave/energy plot flag
 #
 # parameters for 3D file I/O

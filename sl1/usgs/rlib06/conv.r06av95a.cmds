@@ -2131,4 +2131,82 @@ e;t  \# go to display
 [sppad] t v  \# add padding record 4
 [sppad] t v  \# add padding record 5
 e;m  \# go to math
+\######## convolve spectrum
+==[inwave]Y120
+==[inres]y133
+==[Recnum] 1956
+==[Title]CO2+O2+CH4 TRANSM ModtranZ20 r06av95a=
+<work/convolve.cmds.work
+e;t  \# go to display
+[sppad] t v  \# add padding record 1
+[sppad] t v  \# add padding record 2
+[sppad] t v  \# add padding record 3
+[sppad] t v  \# add padding record 4
+[sppad] t v  \# add padding record 5
+e;m  \# go to math
+\######## convolve spectrum
+==[inwave]Y28
+==[inres]y34
+==[Recnum] 1969
+==[Title]Wollastonite HS348.3B r06av95a=c
+<work/convolve.cmds.work
+e;t  \# go to display
+[sppad] t v  \# add padding record 1
+[sppad] t v  \# add padding record 2
+[sppad] t v  \# add padding record 3
+[sppad] t v  \# add padding record 4
+[sppad] t v  \# add padding record 5
+e;m  \# go to math
+\######## convolve spectrum
+==[inwave]Y28
+==[inres]y34
+==[Recnum] 1975
+==[Title]frost on ice 170K Clark1981 r06av95a=a
+<work/convolve.cmds.work
+e;t  \# go to display
+[sppad] t v  \# add padding record 1
+[sppad] t v  \# add padding record 2
+[sppad] t v  \# add padding record 3
+[sppad] t v  \# add padding record 4
+[sppad] t v  \# add padding record 5
+e;m  \# go to math
+\######## convolve spectrum
+==[inwave]Y6
+==[inres]y17
+==[Recnum] 1981
+==[Title]nHematit+fg-Goethit 34B2+MPC r06av95a=b
+<work/convolve.cmds.work
+e;t  \# go to display
+[sppad] t v  \# add padding record 1
+[sppad] t v  \# add padding record 2
+[sppad] t v  \# add padding record 3
+[sppad] t v  \# add padding record 4
+[sppad] t v  \# add padding record 5
+e;m  \# go to math
+\######## convolve spectrum
+==[inwave]Y6
+==[inres]y17
+==[Recnum] 1992
+==[Title]Calcite.5+Kaol.25+Musc AMXr1 r06av95a=a
+<work/convolve.cmds.work
+e;t  \# go to display
+[sppad] t v  \# add padding record 1
+[sppad] t v  \# add padding record 2
+[sppad] t v  \# add padding record 3
+[sppad] t v  \# add padding record 4
+[sppad] t v  \# add padding record 5
+e;m  \# go to math
+\######## convolve spectrum
+==[inwave]Y6
+==[inres]y17
+==[Recnum] 2003
+==[Title]Calcite.33+Kaol.33+Mus AMXr2 r06av95a=a
+<work/convolve.cmds.work
+e;t  \# go to display
+[sppad] t v  \# add padding record 1
+[sppad] t v  \# add padding record 2
+[sppad] t v  \# add padding record 3
+[sppad] t v  \# add padding record 4
+[sppad] t v  \# add padding record 5
+e;m  \# go to math
 e;EX

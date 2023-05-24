@@ -1305,4 +1305,52 @@ t
 ;;;;;;b;120 
 c;133 
 e;e
+\################## copy a spectrum
+==[outwave]V120
+t
+==[Recnum] 1919
+[FILEID][Recnum]citv
+;;;;;;b;120 
+c;133 
+e;e
+\################## copy a spectrum
+==[outwave]V28
+t
+==[Recnum] 1932
+[FILEID][Recnum]citv
+;;;;;;b;28 
+c;34 
+e;e
+\################## copy a spectrum
+==[outwave]V28
+t
+==[Recnum] 1938
+[FILEID][Recnum]citv
+;;;;;;b;28 
+c;34 
+e;e
+==[inwave]Y6
+==[outwave]V6
+m
+\######## cubic spline spectrum
+==[Recnum] 1944
+==[Title]nHematit+fg-Goethit 34B2+MPC W1R1Hb AREF
+<work/spcmds.splin.work
+e
+==[inwave]Y6
+==[outwave]V6
+m
+\######## cubic spline spectrum
+==[Recnum] 1946
+==[Title]Calcite.5+Kaol.25+Musc AMXr1 W1R1Ba AREF
+<work/spcmds.splin.work
+e
+==[inwave]Y6
+==[outwave]V6
+m
+\######## cubic spline spectrum
+==[Recnum] 1948
+==[Title]Calcite.33+Kaol.33+Mus AMXr2 W1R1Ba AREF
+<work/spcmds.splin.work
+e
 e;EX
