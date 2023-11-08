@@ -6,8 +6,7 @@ echo "environment variables directories and links are set up correctly"
 echo "  All environment variables must be set,"
 echo "and the source directory for compiled programs is writable."
 echo " "
-echo "Press return to begin, or control c to quit"
-read a
+echo "Continuing..."
 
 echo "checking environment variables"
 
@@ -72,7 +71,7 @@ done
 
 myuid=`whoami`
 cparchiv=" "
-if [ "$myuid" = "rclark" ]
+if [ "$myuid" = "root" ]
 then
 	cparchiv="-a"
 fi
