@@ -113,7 +113,7 @@ notfound=" "
 echo "Checking for programs that must be installed"
 echo "Note, this assumes programs are installed with $aget"
 
-for i in  gfortran make gcc g++ ratfor tcsh csh aplay gnuplot gnuplot-x11 imagemagick  tgif javac
+for i in  gfortran make gcc g++ ratfor tcsh csh gnuplot gnuplot-x11 imagemagick  tgif javac
 do
 	if [ "$i" = "imagemagick" ]
 	then
